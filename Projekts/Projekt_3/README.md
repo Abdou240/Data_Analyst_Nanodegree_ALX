@@ -11,7 +11,7 @@
 
 ## Key Insights for Presentation
 
-#### Trip distribution by day of the week and hour
+### Trip distribution by day of the week and hour
 
 **On what day of the week is there the most traffic?**
 > * During the weekdays, the number of trips does not differ significantly, about 27.500 trips per day.
@@ -24,7 +24,7 @@
 > * During the midnight hours (1-5 a.m.), only a few people ride GoBike.
 
 
-#### Durations by day of the week per user type
+### Durations by day of the week per user type
 
 **What is the usage behavior of the different user types?**
 > * Subscriber usage time during the week does not change much on average.
@@ -32,13 +32,13 @@
 > * On average, the duration of customers is higher than that of daily subscribers.
 
 
-#### Number of customers vs. Number of subscribers
+### Number of customers vs. Number of subscribers
 
 **How are the user types distributed in percent ?**
 > * There are 9 times more subscribers than customers in the dataset.
 
 
-#### Distance Cycled/Age/Trip Duration  vs. type of Customer
+### Distance Cycled/Age/Trip Duration  vs. type of Customer
 
 **What is the impact of the traveled Distance/Age/Trip Duration on the User type ?**
 > * Subscribers tend to make short trips, while customers tend to make long trips.
@@ -46,7 +46,7 @@
 > * Subscribers tend to travel for shorter durations, while customers tend to travel for longer durations.
 
 
-#### Age vs Trip Duration/Distance by different Customer types
+### Age vs Trip Duration/Distance by different Customer types
 
 **How are the duration of the trip and the distance traveled proportioned among the age groups and user types?**
 
