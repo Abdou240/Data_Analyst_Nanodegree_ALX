@@ -34,17 +34,21 @@
 
 #### Number of customers vs. Number of subscribers
 
+**How are the user types distributed in percent ?**
 > * There are 9 times more subscribers than customers in the dataset.
 
 
 #### Distance Cycled/Age/Trip Duration  vs. type of Customer
 
+**What is the impact of the traveled Distance/Age/Trip Duration on the User type ?**
 > * Subscribers tend to make short trips, while customers tend to make long trips.
 > * There is no significant correlation between age and customer type.
 > * Subscribers tend to travel for shorter durations, while customers tend to travel for longer durations.
 
 
 #### Age vs Trip Duration/Distance by different Customer types
+
+**How are the duration of the trip and the distance traveled proportioned among the age groups and user types?**
 
 > * Subscribers are more likely to travel between 500 and 1500 m for 4 to 8 minutes and are between 25 and 35 years old
 > * Customers are more likely to travel between 1000 and 2000 m for 4 to 16 minutes and are between 25 and 35 years old
