@@ -21,5 +21,9 @@ The provided Twitter archive lacked some useful information: retweet count and f
 
 Udacity also provided a link to image_predictions.tsv which I downloaded programatically using the Requests library.
 
+## Tools
+- Python, libraries: numpy, pandas, matplotlib, seaborn, warnings.
+- Jupyter Notebook
+
 ## Author
 This project was completed by Abderrahmen Mansour
