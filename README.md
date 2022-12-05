@@ -1,4 +1,4 @@
-# Project_ALX
+# Data Analyst ALX
 
 the repository contains the projects I did during the Data Analyst.
 
