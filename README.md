@@ -1,4 +1,4 @@
-# Data Analyst ALX
+# Data Analyst Nanodegree ALX Contents
 
 the repository contains the projects I did during the Udacity [Data Analyst Nanodegree](https://www.alxafrica.com/programme_post/data-analyst/).
 
