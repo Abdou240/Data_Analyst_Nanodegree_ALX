@@ -1,6 +1,6 @@
 # Data Analyst ALX
 
-the repository contains the projects I did during the Data Analyst.
+the repository contains the projects I did during the Udacity [Data Analyst Nanodegree](https://www.alxafrica.com/programme_post/data-analyst/).
 
 1- Introduction to Data Analysis
 
